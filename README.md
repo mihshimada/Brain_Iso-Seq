@@ -8,3 +8,27 @@ Python >= 3.7
 
 ## How to use this repository
 Please choose to either clone the entire directory or, if your focus is on a specific script, to download that particular script onto your local drive.
+
+## Documentation
+Please see [wiki](https://github.com/mihshimada/Brain_Iso-Seq/wiki) for detailed explanation of scripts.
+
+The list of programs is as follows:
+
+**Data_Processing**
+* DataProcessing_1.py
+* DataProcessing_2.py
+* DataProcessing_3.py
+* DataProcessing_4.py
+
+**Conversion_TPM_to_Percentage**
+* TPM_table.py
+* Isoform_Proportion.py
+
+**Alternative_Splicing_Investigation**
+* AS_Investigation.py
+
+**CpG_annotation**
+* AS_Investigation.py
+
+
+
