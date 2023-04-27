@@ -28,7 +28,9 @@ The list of programs is as follows:
 * AS_Investigation.py
 
 **CpG_annotation**
-* AS_Investigation.py
+* gtf_to_genelist.py
+* Make_annotation.py
+* Count_CpG.py
 
 
 
